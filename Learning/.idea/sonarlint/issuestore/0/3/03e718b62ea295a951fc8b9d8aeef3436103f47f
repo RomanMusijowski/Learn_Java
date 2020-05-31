@@ -1,0 +1,7 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(›Óğ°şÿÿÿÿ8Ñ‘ƒ•¢.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(›Óğ°şÿÿÿÿ8¦Û„•¢.
+g	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(¯åÕøÿÿÿÿ8²ıƒ•¢.
+‚
+java:S1217"`Call the method Thread.start() to execute the content of the run() method in a dedicated thread.(ßÛÕşÿÿÿÿ8ıŞ†•¢.
+X	java:S125"<This block of commented-out lines of code should be removed.(äş§ù8ıŞ†•¢.
