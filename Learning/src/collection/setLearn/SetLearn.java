@@ -40,14 +40,14 @@ public class SetLearn {
 //        System.out.println();
 //
 //        //ThreeSet
-//        treeSet.add("one");
-//        treeSet.add("three");
-//        treeSet.add("two");
-//        treeSet.add("four");
-//        for (String s : treeSet) {
-//            System.out.println(s);
-//        }
-//        System.out.println();
+        treeSet.add("one");
+        treeSet.add("three");
+        treeSet.add("two");
+        treeSet.add("four");
+        for (String s : treeSet) {
+            System.out.println(s);
+        }
+        System.out.println();
 //
 //
 //        //ThreeSetStud
